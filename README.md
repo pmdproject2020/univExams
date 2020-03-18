@@ -15,7 +15,7 @@
 | Registration | 2nd march | `31st March` |
 | Correction in Particulars of Application Form on Website only | 07th April | 15th April |
 | Downloading of Admit Cards from NTA website | 30th April | 30th April |
-| Exam Date | 12 May, 2020 | Session-I: (09:30 `P.M.`<sup>[[1]](#fn1)</sup> to 12:30 P.M.) |
+| Exam Date | 12 May, 2020 __`Tuesday`__ | Session-I: (09:30 `P.M.`<sup>[[1]](#fn1)</sup> to 12:30 P.M.) |
 | Duration of Examination | First Session: `09:30 am` to `12:30 pm` | Second Session: `02:30 pm` to `05:30 pm` |
 
 ***
@@ -112,7 +112,7 @@ be. The University/NTA will not issue any paper intimation to the candidates.
 | --- | --- | --- |
 | Online Registration | 15-01-2020 | 15-01-2020 |
 | Date for printing your application | 15-01-2020 | 08-03-2020 |
-| Date of Examination | 28/03/2020 |  *** |
+| Date of Examination | 28/03/2020 __`(Saturday)`__ |  *** |
 
 ***
 
@@ -132,8 +132,8 @@ be. The University/NTA will not issue any paper intimation to the candidates.
 
 | Event | Date | Time |
 | --- | --- | --- |
-| **[M.Sc.](#)** in CS `code(486)` | 27.05.2020 (Wed) | 9:00 AM to 11:00 AM (2 hrs.) |
-| **[MCA](#)** `code(492)` | 26.04.2020 (`Sunday`) | 9:00 AM to 11:00 AM (2 hrs.) |
+| **[M.Sc.](#)** in CS `code(486)` | 27.05.2020 (__`Wed`__) | 9:00 AM to 11:00 AM (2 hrs.) |
+| **[MCA](#)** `code(492)` | 26.04.2020 (__`Sunday`__) | 9:00 AM to 11:00 AM (2 hrs.) |
 
 ***
 
